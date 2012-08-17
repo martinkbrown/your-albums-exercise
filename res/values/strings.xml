@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AlbumsActivity!</string>
+    <string name="app_name">Albums App</string>
+    <string-array name="twenty_one">
+        <item >Rolling in the Deep</item>
+        <item >Rumour Has It</item>
+        <item >Turning Tables</item>
+        <item >Don\'t You Remember</item>
+        <item >Set Fire to the Rain</item>
+        <item >He Won\'t Go</item>
+        <item >Take It All</item>
+        <item >I\'ll Be Waiting</item>
+        <item >One and Only</item>
+        <item >LoveSong</item>
+    </string-array>
+    <string-array name="the_element_of_freedom">
+        <item >The Element of Freedom</item>
+        <item >Love Is Blind</item>
+        <item >Doesn\'t Mean Anything</item>
+        <item >Try Sleeping With A Broken Heart</item>
+    </string-array>
+    <string-array name="epiphany">
+        <item >Epiphany (I\'m Leaving)</item>
+        <item >NoteBook</item>
+        <item >What You Do</item>
+    </string-array>
+
+</resources>
